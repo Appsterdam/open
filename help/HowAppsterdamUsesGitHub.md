@@ -19,11 +19,9 @@ This video is intended for an intelligent, but non-technical audience, and does 
 Present the information they need to know about Appsterdam using a structure similar to the information presented in the video. If we phrase an open question in the same for as a clear answer in the video, people will naturally associate the answer on the screen with the question we've planted in their mind, thereby coming to the desired conclusions before we make it explicit after the video.
 
 
-### :10 - :30 _TED video about the power github_
+### :10 - :30 __Clay Shirky__ [How the Internet will (one day) transform government](http://www.youtube.com/watch?v=6bQoHIvtnTg)
 
 _Goal:_ to show the suitability of git and github as tools to manage a complex information system.
-
-__Clay Shirky__ [How the Internet will (one day) transform government](http://www.youtube.com/watch?v=6bQoHIvtnTg)
 
 Clay Shirky gave a presentation at TED in Edinborough that sums up, in 18 minutes and 33 seconds, the problem of managing large, conflicting information system, and the evolution of our toolchain for dealing with it. In plain language intended for a non-technical audience, he shows how every invention from the telegraph to the printing press have tried bad failed to peaceful knowledge exchange.
 
