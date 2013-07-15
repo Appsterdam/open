@@ -40,42 +40,46 @@ As a transition to the instructional phase, explain how the concepts expressed i
   * busienss tools like Basecamp 
   * document-based tools like Dropbox, 
   * cloud-based solutions between like Google Docs and iWork.com.
-* Demonstrate that these tools will enable better workflows, rather than being a burden
+* Show that these tools enable better workflows, rather than being a burden, by making clear that Github is:
+  * free, trustyworthy, and well-suited to the problem
+  * part of programmer culture, and knowing it is a way in to that culture 
+  * useful for lots of things, and a genuinely useful thing to be experienced with
 * Stress the simplicity and intuitive nature of these tools
+  * How the parts map well to the problems
+  * How the website and its editors are easy to use
+  * How markdown and other features like automatic image uploading make it easy to express yourself
 
 
 ### :35 - :60 _Getting Started_
 
-_Goal:_ Learning the github workflow and toolchain
+_Goal:_ Learning the github workflow and toolchain in a way that introducing concepts in order of complexity and usefulness while constantly relating to use cases as Appsterdammers are likely to use them.
 
-* __:35__ Repository for canonical resources
-  * Change tracking
-  * Versioning
-  * Merging
-  * Non-Text Resources
-  * Pull requests
-* __:40__ Wiki for collaboration
-  * Works in progress
-  * Living documentation
-  * Relationship to repository
-  * As a repository
-* __:45__ Issues are an advanced forum
+* __:35__ Issues are an advanced forum
   * Threaded conversations
   * Wiki-like cross linking
   * Markdown compatible
   * Embbedable resources
-* __:50__ Markdown Editor
+* __:40__ Wiki for collaboration
+  * Works in progress
+  * Living documentation
+  * Relationship to repository
+  * As an open repository
+* __:45__ Markdown and Editing
   * Headers
   * Formatting
   * Lists
   * To-do lists
   * Links
   * Wikilinks
+* __:50__ Repository for canonical resources
+  * Change tracking and auditing
+  * Versioning, Branching, Diffing and Merging
+  * Durable Resources _text and non-text_
+  * Pull requests
 * __:55__ Clients and beyond
-  * Clients
-  * Editors
-  * Training
-  * Additional resources
+  * Clients and Editors
+  * Cloning, Forking, Branching, Merging
+  * Additional training resources
  
 __Demos should be pre-recorded in order to insure against network outages, and to make it easy to share them here.__
 
