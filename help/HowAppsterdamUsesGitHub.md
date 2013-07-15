@@ -77,13 +77,29 @@ _Goal:_ Learning the github workflow and toolchain in a way that introducing con
   * Durable Resources _text and non-text_
   * Pull requests
 * __:55__ Clients and beyond
-  * Using github's jekyll support for our [Website](http://jekyllrb.com/docs/github-pages/)
   * Clients and Editors
   * Cloning, Forking, Branching, Merging
   * Additional training resources
- 
+
 __Demos should be pre-recorded in order to insure against network outages, and to make it easy to share them here.__
+
+#### Case Study _Our Website_
+
+People start to build something, but then they have to do other things. When new people come along, they end up starting over again. It's a project that never gets completed. Lots of people want to help, but end up getting referred to some meeting or committee, or some person is not available, or no longer involved.
+
+Now, when somebody wants something out of the website, they can file an issue. Other people can comment on that issue, and those who care can start creating a series of documents on the wiki. Through an interconnected web of conversations via the issue tracker, and collaborations via the wiki, people can coordinate on moving forward on this problem. 
+
+Most pages can be crafted using [github's jekyll support](http://jekyllrb.com/docs/github-pages/). Custom HTML, ruby, or other code can be stored in a repository, as usual. Documentation can be written in the wiki, canonized in the repository, and published via jekyll.
+
+People who want to fix the website can do so, and people can talk about how to do so, and anyone coming along later can benefit from all of that information exchange, and pick up the project right where the last person left off.
+
+If two people disagree, they can fork the code, craft their own visions, and present them both to the people and the peopel running Appsterdam.
+
+Notably, for a lot of App Makers, github will end up replacing what you wanted an Appsterdam website for anyway.
+
 
 ### :60 - :90 _Questions and Answers_
 
 _Goal:_ Address people's concerns and unsureties, and make sure everyone is on the same page.
+
+As questions are likely to address things that are missing or unclear from the rest of the narrative, their answers should be added to the record here, as they are likely to be useful in general.
