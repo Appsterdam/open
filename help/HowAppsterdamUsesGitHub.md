@@ -4,9 +4,19 @@ This is the syllabus for the introduction to github @ElDragonRojo will be presen
 
 ## Agenda
 
+Our goals, as always:
+
+1. Entertain
+2. Educate
+3. Inspire
+
 ### :00 - :15 _Introduction to git and github_
 
 _Goal:_ to introduce the minimum amount of information and jargon to understand the video.
+
+This video is intended for an intelligent, but non-technical audience, and does not need a lot of introduction in order to understand his points. However, we do need some introduction to the background of Appsterdam so that viewers will make the link between what we are showing them and how that applies to the problems we are coming together to solve.
+
+Present the information they need to know about Appsterdam using a structure similar to the information presented in the video. If we phrase an open question in the same for as a clear answer in the video, people will naturally associate the answer on the screen with the question we've planted in their mind, thereby coming to the desired conclusions before we make it explicit after the video.
 
 ### :15 - :35 _TED video about the power github_
 
@@ -22,7 +32,7 @@ Shirky's conclusion, which ultimately inspired Open Appsterdam, is that github i
 
 _Goal:_ Understanding how git and github map to Appsterdam.
 
-As a transition to the instructional phase, explain how the concepts expressed in Clay's video map to the problem of running Appsterdam in an open, colaborative way. 
+As a transition to the instructional phase, explain how the concepts expressed in Clay's video map to the problem of running Appsterdam in an open, colaborative way. Hopefully this will be an explicit statement of conclusions we have all come to by using the information in the video to resolve the problems in the introduction.
 
 * Explain how github is a step up from the other tools being used by volunteers, including:
   * busienss tools like Basecamp 
