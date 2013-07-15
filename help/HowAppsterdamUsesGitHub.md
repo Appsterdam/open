@@ -77,6 +77,7 @@ _Goal:_ Learning the github workflow and toolchain in a way that introducing con
   * Durable Resources _text and non-text_
   * Pull requests
 * __:55__ Clients and beyond
+  * Using github's jekyll support for our [Website](http://jekyllrb.com/docs/github-pages/)
   * Clients and Editors
   * Cloning, Forking, Branching, Merging
   * Additional training resources
