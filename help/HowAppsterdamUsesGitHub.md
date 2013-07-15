@@ -52,6 +52,8 @@ As a transition to the instructional phase, explain how the concepts expressed i
 
 _Goal:_ Learning the github workflow and toolchain in a way that introducing concepts in order of complexity and usefulness while constantly relating to use cases as Appsterdammers are likely to use them.
 
+__Start by showing them how to sign up!__
+
 * __:35__ Issues are an advanced forum
   * Threaded conversations
   * Wiki-like cross linking
@@ -75,6 +77,7 @@ _Goal:_ Learning the github workflow and toolchain in a way that introducing con
   * Durable Resources _text and non-text_
   * Pull requests
 * __:55__ Clients and beyond
+  * Following on github and Twitter: @OpenAppsterdam
   * Clients and Editors
   * Cloning, Forking, Branching, Merging
   * Additional training resources
