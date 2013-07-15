@@ -10,7 +10,7 @@ Our goals, as always:
 2. Educate
 3. Inspire
 
-### :00 - :15 _Introduction to git and github_
+### :00 - :10 _The problem of Appsterdam_
 
 _Goal:_ to introduce the minimum amount of information and jargon to understand the video.
 
@@ -18,7 +18,8 @@ This video is intended for an intelligent, but non-technical audience, and does 
 
 Present the information they need to know about Appsterdam using a structure similar to the information presented in the video. If we phrase an open question in the same for as a clear answer in the video, people will naturally associate the answer on the screen with the question we've planted in their mind, thereby coming to the desired conclusions before we make it explicit after the video.
 
-### :15 - :35 _TED video about the power github_
+
+### :10 - :30 _TED video about the power github_
 
 _Goal:_ to show the suitability of git and github as tools to manage a complex information system.
 
@@ -28,7 +29,8 @@ Clay Shirky gave a presentation at TED in Edinborough that sums up, in 18 minute
 
 Shirky's conclusion, which ultimately inspired Open Appsterdam, is that github is the natural evolution of that toolchain, demonstrating how the git workflow and the github collaboration model are well suited for even the most complex of information management systems, using the problem of legislation as the ultimate example.
 
-### :35 - :40 _Introducing Open Appsterdam_
+
+### :30 - :35 _Introducing Open Appsterdam_
 
 _Goal:_ Understanding how git and github map to Appsterdam.
 
@@ -42,34 +44,34 @@ As a transition to the instructional phase, explain how the concepts expressed i
 * Stress the simplicity and intuitive nature of these tools
 
 
-### :40 - :60 _Getting Started_
+### :35 - :60 _Getting Started_
 
 _Goal:_ Learning the github workflow and toolchain
 
-* Repository for canonical resources
+* __:35__ Repository for canonical resources
   * Change tracking
   * Versioning
   * Merging
   * Non-Text Resources
   * Pull requests
-* Wiki for collaboration
+* __:40__ Wiki for collaboration
   * Works in progress
   * Living documentation
   * Relationship to repository
   * As a repository
-* Issues are an advanced forum
+* __:45__ Issues are an advanced forum
   * Threaded conversations
   * Wiki-like cross linking
   * Markdown compatible
   * Embbedable resources
-* Markdown Editor
+* __:50__ Markdown Editor
   * Headers
   * Formatting
   * Lists
   * To-do lists
   * Links
   * Wikilinks
-* Clients and beyond
+* __:55__ Clients and beyond
   * Clients
   * Editors
   * Training
