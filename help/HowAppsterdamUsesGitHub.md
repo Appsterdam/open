@@ -25,6 +25,8 @@ _Goal:_ to show the suitability of git and github as tools to manage a complex i
 
 __Clay Shirky__ [How the Internet will (one day) transform government](http://www.youtube.com/watch?v=6bQoHIvtnTg)
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/6bQoHIvtnTg" frameborder="0" allowfullscreen></iframe>
+
 Clay Shirky gave a presentation at TED in Edinborough that sums up, in 18 minutes and 33 seconds, the problem of managing large, conflicting information system, and the evolution of our toolchain for dealing with it. In plain language intended for a non-technical audience, he shows how every invention from the telegraph to the printing press have tried bad failed to peaceful knowledge exchange.
 
 Shirky's conclusion, which ultimately inspired Open Appsterdam, is that github is the natural evolution of that toolchain, demonstrating how the git workflow and the github collaboration model are well suited for even the most complex of information management systems, using the problem of legislation as the ultimate example.
