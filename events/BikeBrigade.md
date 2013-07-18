@@ -11,7 +11,9 @@ In an effort to help introduce new people to the wonderful world of biking-for-f
 
 # Meetings
 
-The Appsterdam Bike Brigade rides every Sunday at 13:00. This happens regardless of weather. Riding a bike in the rain can be quite fun if you are prepared for it.
+The Appsterdam Bike Brigade rides every Sunday at 13:00. This happens regardless of weather. Riding a bike in the rain can be quite fun if you are prepared for it. 
+
+The destination for each ride is determined by the sum of bikes and abilities that riders bring on each day. Each ride should be at least 20km to get just beyond average commuting range. Great care should be taken to not go way beyond 20km with riders who are not at all ready for it. Everyone should make it home without the need of a doctor or ambulance.
 
 # Preparation
 
@@ -20,7 +22,7 @@ While Bike Brigade rides are not hardcore rides, they do require some basic prep
 1. Each person must have a bike. Any type of bike will do so long as their bike is in good repair and ready to use.
 2. Each person should bring water. Dehydration takes away from the fun of a bike ride, each person should have water to help keep this from happening.
 3. Each person should have proper clothing. The speed and distance of Bike Brigade rides do not require full lycra cycling gear, plain clothes should work fine. However, a decent rain jacket will make rides in the rain much nicer and warm clothes and gloves will help when the temperature drops later in the year.
-4. Each person should RSVP on the website. It helps encourage other people to come ride when they know other people are riding with them. Easiest way for anyone to know someone is coming is to RSVP on the Meetup.com event page.
+4. Each person should RSVP on the [meetup website](http://meetup.com/Appsterdam/events/). It helps encourage other people to come ride when they know other people are riding with them. Easiest way for anyone to know someone is coming is to RSVP on the event page.
 
 # Costs
 
@@ -28,7 +30,7 @@ The Bike Brigade doesn't cost anything to run. It would, however, be good for ea
 
 # Staffing
 
-The Bike Brigade needs at least one person to lead the group. They have a few jobs:
+The Bike Brigade needs at least one person to lead the group. As the group of riders in attendance grows, more leaders might be necessary. They have a few jobs:
 
 1. Make sure everyone makes it back to the starting point.
 2. Check everyone's bike before the ride starts for tire pressure, basic maintenance, etc.
