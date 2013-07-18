@@ -21,3 +21,15 @@ While Bike Brigade rides are not hardcore rides, they do require some basic prep
 2. Each person should bring water. Dehydration takes away from the fun of a bike ride, each person should have water to help keep this from happening.
 3. Each person should have proper clothing. The speed and distance of Bike Brigade rides do not require full lycra cycling gear, plain clothes should work fine. However, a decent rain jacket will make rides in the rain much nicer and warm clothes and gloves will help when the temperature drops later in the year.
 4. Each person should RSVP on the website. It helps encourage other people to come ride when they know other people are riding with them. Easiest way for anyone to know someone is coming is to RSVP on the Meetup.com event page.
+
+# Costs
+
+The Bike Brigade doesn't cost anything to run. It would, however, be good for each rider to have enough money for coffee/beer/food when rides make stops at cafes.
+
+# Staffing
+
+The Bike Brigade needs at least one person to lead the group. They have a few jobs:
+
+1. Make sure everyone makes it back to the starting point.
+2. Check everyone's bike before the ride starts for tire pressure, basic maintenance, etc.
+3. Help new people and encourage them to keep pedalling.
