@@ -2,16 +2,16 @@
 
 ## Intro
 
-Appsterdam begins with Meeten en Drinken. Every week we descend upon a bar, making into a nerd bar, providing App Makers and their partners a regular excuse to leave the house and socialize with their peers. Given the overarching goal to bring people together, Meeten en Drinken forms the core of the Appsterdam movement.
+Appsterdam begins with Meeten en Drinken. Every week we descend upon a bar, turning it into a nerd bar, providing App Makers and their partners a regular excuse to leave the house and socialize with their peers. Given the overarching goal to bring people together, Meeten en Drinken forms the core of the Appsterdam movement.
 
 
 ## Description
 
-The origin of Meeten en Drinken is part of the story of Appsterdam, as the founding members gathered each Wednesday night at Cafe Bax to organize the first initiatives that would form the Summer of Appsterdam. Formal functions were later moved to their own meetings, leaving the event to open fellowship.
+The origin of Meeten en Drinken is part of the story of Appsterdam, as the founding members gathered each Wednesday night at [Cafe Bax](http://www.cafebax.nl/) to organize the first initiatives that would form the Summer of Appsterdam in 2011. Formal functions were later moved to their own meetings, leaving the event to open fellowship.
 
-Together with midweek daytime lectures and weekend family events, Appsterdam Meeten en Drinken forms an overall networking strategy that ensures there are a social opportunities for all App Makers regardless of scheduling constraints. As opposed to other local meetups, Appsterdam events are open to everyone interested in apps, regardless of technical expertise.
+Together with midweek daytime lectures and weekend social events, Appsterdam Meeten en Drinken forms an overall networking strategy that ensures there are social opportunities for all App Makers regardless of scheduling constraints. As opposed to other local meetups, Appsterdam events are open to everyone interested in apps, regardless of technical expertise, or lack thereof.
 
-Like the lectures, but unlike the weekend events, Meeten en Drinken happens at the same time and place, ensuring people always know where in space and time to find other App makers. Embassy cities, most notably Delft, have experimented with different frequencies, but the basic idea remains the same.
+Like the lectures, but unlike the weekend events, Meeten en Drinken happens at the same time and place, ensuring people always know where in space and time to find other App Makers. Embassy cities, like Chicago and Milan, have experimented with different frequencies, but the basic idea remains the same.
 
 
 ## Benefits
