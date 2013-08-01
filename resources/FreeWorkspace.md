@@ -19,7 +19,7 @@ Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/21).
 
 ### Location
 
-On foot or by bike, catch the free ferry to Buiksloterweg that leaves every 5 minutes from the north (river) side of Centraal Station. A Lab is the giant, red brick building right behind the landmark green Overhoeks Tower.
+On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A Lab is the giant, red brick building right behind the landmark green Overhoeks Tower.
 
 ### Nearby
 
