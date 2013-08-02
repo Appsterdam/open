@@ -17,6 +17,19 @@ Monday-Friday 09:00-18:00
 
 Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/21). 
 
+Volunteer Schedule for (Aug 5-9, 2013):
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | Timo de Winter | @timotje | @timodewinter | ---|
+| Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
+| Wednesday | Mike Lee | @bmf | @ElDragonRojo |  Martinus Meiborg @mmeiborg @martitwit |
+| Thursday | Tara Ross | @tross6 | @tross6 | --- |
+| Friday | Gavin Morris | @g7morris | @g7morris | --- |
+
+Please tweet for now to gain entrance. 
+
+
 ### Location
 
 On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A Lab is the giant, red brick building right behind the landmark green Overhoeks Tower.
