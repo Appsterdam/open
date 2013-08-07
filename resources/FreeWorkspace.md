@@ -45,11 +45,11 @@ On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 m
 Any problems with the room or the building? Contact Anne van der Meij. He works for Codum and is the building manager for A Lab. You can usually find him down the hall in Lab.003.
 anne@codum.nl
 
-> CODUM Amsterdam
-> Damrak 70
-> 1012 LM Amsterdam
-
 ```
+CODUM Amsterdam
+Damrak 70
+1012 LM Amsterdam
+
 t +31 20 820 23 63
 m +31 6 479 479 49
 i www.CODUM.nl
