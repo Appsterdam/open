@@ -13,7 +13,7 @@ See the [panorama pic](http://360.io/SCRLA4).
 
 Monday-Friday 09:00-18:00
 
-24 hour access is available
+24 hour access is available.
 
 Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/21). 
 
@@ -27,8 +27,7 @@ Volunteer Schedule for (Aug 5-9, 2013):
 | Thursday | Tara Ross | @tross6 | @tross6 | --- |
 | Friday | Gavin Morris | @g7morris | @g7morris | --- |
 
-Please tweet for now to gain entrance. 
-
+Please tweet above volunteer to gain entrance if the door is locked. 
 
 ### Location
 
@@ -36,7 +35,21 @@ On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 m
 
 ### Nearby
 
-Eye Film Museum
-Overhoeks Tower (landmark)
-Restaurant / Café De Pont
-Tolhuistuin
+[Eye Film Museum](http://www.eyefilm.nl/)
+[Overhoeks Tower](http://nl.wikipedia.org/wiki/Toren_Overhoeks) (landmark)
+[Restaurant / Café De Pont](http://www.cafedepont.nl/)
+[Tolhuistuin](http://www.tolhuistuin.nl/)
+
+### Contact
+
+Any problems with the room or the building? Contact Anne van der Meij. He works for Codum and is the building manager for A Lab. You can usually find him down the hall in Lab.003.
+anne@codum.nl 
+
+CODUM Amsterdam
+Damrak 70
+1012 LM Amsterdam
+
+t +31 20 820 23 63
+m +31 6 479 479 49
+i www.CODUM.nl
+f www.facebook.com/CodumNL
