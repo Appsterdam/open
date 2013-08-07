@@ -35,21 +35,23 @@ On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 m
 
 ### Nearby
 
-[Eye Film Museum](http://www.eyefilm.nl/)
-[Overhoeks Tower](http://nl.wikipedia.org/wiki/Toren_Overhoeks) (landmark)
-[Restaurant / Café De Pont](http://www.cafedepont.nl/)
-[Tolhuistuin](http://www.tolhuistuin.nl/)
+* [Eye Film Museum](http://www.eyefilm.nl/)
+* [Overhoeks Tower](http://nl.wikipedia.org/wiki/Toren_Overhoeks) (landmark)
+* [Restaurant / Café De Pont](http://www.cafedepont.nl/)
+* [Tolhuistuin](http://www.tolhuistuin.nl/)
 
 ### Contact
 
 Any problems with the room or the building? Contact Anne van der Meij. He works for Codum and is the building manager for A Lab. You can usually find him down the hall in Lab.003.
-anne@codum.nl 
+anne@codum.nl
 
-CODUM Amsterdam
-Damrak 70
-1012 LM Amsterdam
+> CODUM Amsterdam
+> Damrak 70
+> 1012 LM Amsterdam
 
+```
 t +31 20 820 23 63
 m +31 6 479 479 49
 i www.CODUM.nl
 f www.facebook.com/CodumNL
+```
