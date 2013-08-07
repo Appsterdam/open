@@ -19,7 +19,7 @@ Monday-Friday 09:00-18:00
 
 Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/21). 
 
-Volunteer Schedule for (Aug 5-9, 2013):
+Volunteer Schedule for 12-16 August 2013:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
