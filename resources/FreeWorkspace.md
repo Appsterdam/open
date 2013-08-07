@@ -3,6 +3,8 @@ _Collaborate with your colleagues at our HQ and free workspace._
 
 ## A Lab, Workhotel.001
 
+Appsterdam HQ is located at [A Lab](http://a-lab.nl) at Overhoeksplein, 1031 KS, Amsterdam.
+
 ### Capacity
 
 28 seats around 4 tables in a large open space right by the front entrance of [A Lab](http://a-lab.nl), Amsterdam's hot new tech hive, located at the old Shell campus, right across the river from Centraal Station.
