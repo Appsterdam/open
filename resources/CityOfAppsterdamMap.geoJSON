@@ -12,7 +12,10 @@
                 ]
             },
             "properties": {
-                "name": "Noordermarkt"
+                "name": "Noordermarkt",
+                "about": "Great little biological and organic market. If oysters are your thing, be sure to try some of the Waddenzee oysters.",
+                "kind": "Market",
+                "website": "http://www.noordermarkt-amsterdam.nl/en/"
             }
         },
         {
@@ -26,7 +29,10 @@
                 ]
             },
             "properties": {
-                "name": "Albert Cuyp Market"
+                "name": "Albert Cuyp Market",
+                "about": "Every weekday and Saturday. Good market with everything from food to clothes.",
+                "kind": "Market",
+                "website": "http://www.albertcuypmarkt.nl/ac_english.html"
             }
         },
         {
@@ -40,7 +46,9 @@
                 ]
             },
             "properties": {
-                "name": "Red Light District"
+                "name": "Red Light District",
+                "about": "Yup, you should visit. Try to pass by ones during day time and once after hours.",
+                "kind": "Don't tell yo mamma"
             }
         },
         {
@@ -54,7 +62,10 @@
                 ]
             },
             "properties": {
-                "name": "Plan van Berlage, oud zuid"
+                "name": "Plan van Berlage, oud zuid",
+                "about": "Plan zuid, a project by the famous city architect Berlage.",
+                "kind": "Stroll/ Bars/ Restaurants",
+                "more info": "http://en.wikipedia.org/wiki/Plan_Zuid"
             }
         },
         {
@@ -68,7 +79,10 @@
                 ]
             },
             "properties": {
-                "name": "De 9 Straatjes"
+                "name": "De 9 Straatjes",
+                "about": "The nine street shopping area. Nice boutiques, bars and restaurants.",
+                "kind": "Shopping/ Food/ Drinks",
+                "website": "http://www.de9straatjes.nl"
             }
         },
         {
@@ -82,7 +96,9 @@
                 ]
             },
             "properties": {
-                "name": "Café Tabac"
+                "name": "Café Tabac",
+                "about": "Have a beer and order some Indonesian food",
+                "website": "http://cafetabac.eu"
             }
         },
         {
@@ -96,7 +112,8 @@
                 ]
             },
             "properties": {
-                "name": "Café de Klos"
+                "name": "Café de Klos",
+                "about": "Best BBQ in town"
             }
         },
         {
@@ -110,7 +127,9 @@
                 ]
             },
             "properties": {
-                "name": "Cafe Winkel"
+                "name": "Cafe Winkel",
+                "about": "Some of the best apple pie in town",
+                "website": "winkel43.nl"
             }
         },
         {
@@ -124,7 +143,10 @@
                 ]
             },
             "properties": {
-                "name": "Noorderlicht Café"
+                "name": "Noorderlicht Café",
+                "about": "Nice place to have drink and some food after exploring the NDSM werf",
+                "kind": "Food/ Drinks",
+                "website": "http://noorderlichtcafe.nl"
             }
         },
         {
@@ -138,7 +160,10 @@
                 ]
             },
             "properties": {
-                "name": "NDSM-werf"
+                "name": "NDSM-werf",
+                "about": "The shipping wards. Nice place to stroll around. Get the free boat behind central station.",
+                "kind": "Stroll/ Park/ Bars/ Food",
+                "website": "http://www.ndsm.nl"
             }
         },
         {
@@ -152,7 +177,9 @@
                 ]
             },
             "properties": {
-                "name": "Boat to and from NDSM Werf"
+                "name": "Boat to and from NDSM Werf",
+                "about": "Westerpark and NDSM can be easily combined if you take the boat from this stop",
+                "kind": "Boat"
             }
         },
         {
@@ -166,7 +193,10 @@
                 ]
             },
             "properties": {
-                "name": "Westerpark"
+                "name": "WesterGasfabriek",
+                "about": "The old gas factory terrain. Now houses bars, restaurants, creative companies and more.",
+                "kind": "Stroll/ Park/ Bars/ Food",
+                "website": "http://www.westergasfabriek.nl"
             }
         },
         {
@@ -180,7 +210,9 @@
                 ]
             },
             "properties": {
-                "name": "The Rijks Museum"
+                "name": "The Rijks Museum",
+                "about": "The bigest museum in Amsterdam. Just opened again. Very nice",
+                "website": "https://www.rijksmuseum.nl"
             }
         },
         {
@@ -194,7 +226,9 @@
                 ]
             },
             "properties": {
-                "name": "Van Gogh Museum"
+                "name": "Van Gogh Museum",
+                "kind": "Museum",
+                "website": "http://www.vangoghmuseum.nl"
             }
         },
         {
@@ -208,7 +242,10 @@
                 ]
             },
             "properties": {
-                "name": "The Stedelijk (city) museum"
+                "name": "The Stedelijk (city) museum",
+                "about": "On of the major museums in Amsterdam",
+                "kind": "Museum",
+                "website": "http://www.stedelijk.nl"
             }
         },
         {
@@ -222,7 +259,10 @@
                 ]
             },
             "properties": {
-                "name": "Restaurant De Knijp"
+                "name": "Restaurant De Knijp",
+                "about": "If you find yourself in need of some decent food after 10:00. Open after midnight.",
+                "kind": "Food",
+                "website": "http://deknijp.jubels.nl"
             }
         },
         {
@@ -236,7 +276,9 @@
                 ]
             },
             "properties": {
-                "name": "De Druif"
+                "name": "De Druif",
+                "about": "Order an "Oude Jenever" with beer next to it.",
+                "kind": "Old Skool Amsterdam Bar"
             }
         },
         {
@@ -250,7 +292,10 @@
                 ]
             },
             "properties": {
-                "name": "Int Aepjen Proeflokaal"
+                "name": "Int Aepjen Proeflokaal",
+                "about": "Order an \"Oude Jenever\" with beer next to it.",
+                "webiste": "http://cafeintaepjen.nl",
+                "kind": "Old Skool Amsterdam Bar"
             }
         },
         {
@@ -264,7 +309,10 @@
                 ]
             },
             "properties": {
-                "name": "Snackbar Bird"
+                "name": "Snackbar Bird",
+                "about": "Tai food. Very decent.",
+                "website": "http://thai-bird.nl",
+                "kind": "Food"
             }
         },
         {
@@ -278,7 +326,10 @@
                 ]
             },
             "properties": {
-                "name": "Eetsalon Van Dobben"
+                "name": "Eetsalon Van Dobben",
+                "about": "Order a "Broodje Krotet",
+                "website": "http://eetsalonvandobben.nl"
+                "kind": "Snacks/ Food/ Lunch"
             }
         },
         {
@@ -292,7 +343,11 @@
                 ]
             },
             "properties": {
-                "name": "Café Bax"
+                "name": "Café Bax",
+                "about": "The place where the Appsterdam Weekly Meeten en Drinken takes places.",
+                "kind": "Amsterdam Bar",
+                "event dates": "Every Wednesday from 19:00 AMS",
+                "website": "http://www.cafebax.nl"
             }
         },
         {
@@ -309,7 +364,8 @@
                 "name": "Appsterdam HQ at A-Lab",
                 "about": "The official Appsterdam HQ Hangout.",
                 "open": "Mo, Tu, We, Th, Fr",
-                "more info": "[A-Lab Hours](https://github.com/Appsterdam/open/issues/21)."
+                "up to date info": "https://github.com/Appsterdam/open/issues/21",
+                "website": "http://www.a-lab.nl"
             }
         }
     ]
