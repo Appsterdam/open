@@ -306,7 +306,13 @@
                 ]
             },
             "properties": {
-                "name": "Appsterdam HQ at A-Lab"
+                "name": "Appsterdam HQ at A-Lab",
+                "about": "The official Appsterdam HQ Hangout.
+
+ 
+Opened every Mo, Tu, We, Th, Fr
+
+See https://github.com/Appsterdam/open/issues/21 for up to date info."
             }
         }
     ]
