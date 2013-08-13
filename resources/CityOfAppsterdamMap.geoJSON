@@ -1,0 +1,313 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.88687,
+                    52.379711,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Noordermarkt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896469,
+                    52.368786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Albert Cuyp Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898792,
+                    52.373116,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Light District"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.872179,
+                    52.350269,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plan van Berlage, oud zuid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.884989,
+                    52.370327,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "De 9 Straatjes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.888563,
+                    52.380184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Café Tabac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.885654,
+                    52.365395,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Café de Klos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886273,
+                    52.379066,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafe Winkel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896834,
+                    52.39959,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Noorderlicht Café"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.892272,
+                    52.398884,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NDSM-werf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.930801,
+                    52.385975,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boat to and from NDSM Werf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.875,
+                    52.389721,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Westerpark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.885172,
+                    52.359962,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Rijks Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.881063,
+                    52.35833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Van Gogh Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.879721,
+                    52.357983,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Stedelijk (city) museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.880671,
+                    52.354797,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Restaurant De Knijp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.946938,
+                    52.388172,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "De Druif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.90016,
+                    52.376263,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Int Aepjen Proeflokaal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900722,
+                    52.374569,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Snackbar Bird"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.895305,
+                    52.366058,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eetsalon Van Dobben"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.867948,
+                    52.365582,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Café Bax"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.902508,
+                    52.384125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Appsterdam HQ at A-Lab"
+            }
+        }
+    ]
+}
