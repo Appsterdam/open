@@ -327,8 +327,8 @@
             },
             "properties": {
                 "name": "Eetsalon Van Dobben",
-                "about": "Order a "Broodje Krotet",
-                "website": "http://eetsalonvandobben.nl"
+                "about": "Order a \"Broodje Krotet\"",
+                "website": "http://eetsalonvandobben.nl",
                 "kind": "Snacks/ Food/ Lunch"
             }
         },
