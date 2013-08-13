@@ -308,8 +308,8 @@
             "properties": {
                 "name": "Appsterdam HQ at A-Lab",
                 "about": "The official Appsterdam HQ Hangout.",
-                "open": "every Mo, Tu, We, Th, Fr",
-                "aditional": "See https://github.com/Appsterdam/open/issues/21 for up to date info."
+                "open": "Mo, Tu, We, Th, Fr",
+                "more info": "[A-Lab Hours](https://github.com/Appsterdam/open/issues/21)."
             }
         }
     ]
