@@ -1,0 +1,1 @@
+The [Appsterdam Wiki](https://github.com/Appsterdam/open/wiki) aims to answer all Frequently Asked Questions (FAQs) related to Appsterdam and Amsterdam in general. Got questions? File an issue in our [issues tracker](https://github.com/Appsterdam/open/issues). This wiki is available to everyone to use and contribute. Enjoy!
