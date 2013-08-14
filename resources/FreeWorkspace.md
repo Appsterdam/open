@@ -1,9 +1,9 @@
 # Appsterdam Centraal
 _Collaborate with your colleagues at our HQ and free workspace._
 
-## A Lab, Workhotel.001
+## A-Lab, Workhotel.001
 
-Appsterdam HQ is located at [A Lab](http://a-lab.nl) at Overhoeksplein, 1031 KS, Amsterdam.
+Appsterdam HQ is located at [A Lab](http://a-lab.nl) at Overhoeksplein 2, 1031 KS, Amsterdam.
 
 ### Directions
 
@@ -13,6 +13,7 @@ On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 m
 
 Monday-Friday 09:00-18:00
 
+Please tweet the scheduled volunteer below to gain entrance if the door is locked.
 Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/21). 
 
 Volunteer Schedule for 12-16 August 2013:
@@ -24,8 +25,6 @@ Volunteer Schedule for 12-16 August 2013:
 | Wednesday | Mike Lee | @bmf | @ElDragonRojo |  Martinus Meiborg @mmeiborg @martitwit |
 | Thursday | Tara Ross | @tross6 | @tross6 | --- |
 | Friday | Gavin Morris | @g7morris | @g7morris | --- |
-
-Please tweet above volunteer to gain entrance if the door is locked.
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
