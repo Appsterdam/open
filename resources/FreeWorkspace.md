@@ -1,13 +1,20 @@
 # Appsterdam Centraal
 _Collaborate with your colleagues at our HQ and free workspace._
 
+
 ## A-Lab, Workhotel.001
 
-Appsterdam HQ is located at [A Lab](http://a-lab.nl) at Overhoeksplein 2, 1031 KS, Amsterdam.
+Appsterdam HQ is located at Overhoeksplein 2, 1031 KS, Amsterdam. This is the home of [A Lab](http://a-lab.nl), Amsterdam's hot new tech hive, located at the old Shell campus, right across the river from Centraal Station.
+
+We have 28 seats around 4 tables in a large open space right by the front entrance of the building. 
+
+See the [panorama pic](http://360.io/SCRLA4).
+
 
 ### Directions
 
 On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A-Lab is the giant, red brick building right behind the landmark Overhoeks Tower.
+
 
 ### Hours
 
@@ -28,12 +35,6 @@ Volunteer Schedule for 12-16 August 2013:
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
-### Capacity
-
-28 seats around 4 tables in a large open space right by the front entrance of [A Lab](http://a-lab.nl), Amsterdam's hot new tech hive, located at the old Shell campus, right across the river from Centraal Station.
-
-See the [panorama pic](http://360.io/SCRLA4).
-
 
 ### Nearby
 
@@ -41,6 +42,7 @@ See the [panorama pic](http://360.io/SCRLA4).
 * [Overhoeks Tower](http://nl.wikipedia.org/wiki/Toren_Overhoeks) (landmark)
 * [Restaurant / Café De Pont](http://www.cafedepont.nl/)
 * [Tolhuistuin](http://www.tolhuistuin.nl/)
+
 
 ### Contact
 
