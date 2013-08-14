@@ -4,7 +4,7 @@ _Collaborate with your colleagues at our HQ and free workspace._
 
 ## A-Lab, Workhotel.001
 
-Appsterdam HQ is located at Overhoeksplein 2, 1031 KS, Amsterdam. This is the home of [A Lab](http://a-lab.nl), Amsterdam's hot new tech hive, located at the old Shell campus, right across the river from Centraal Station.
+Appsterdam HQ is located at Overhoeksplein 2, 1031 KS, Amsterdam. This is the home of [A-Lab](http://a-lab.nl), Amsterdam's hot new tech hive, located at the old Shell campus, right across the river from Centraal Station.
 
 We have 28 seats around 4 tables in a large open space right by the front entrance of the building. 
 
@@ -46,7 +46,7 @@ Volunteer Schedule for 12-16 August 2013:
 
 ### Contact
 
-Any problems with the room or the building? Contact Anne van der Meij. He is the building manager for A Lab and can be found down the hall in Lab.003.
+Any problems with the room or the building? Contact Anne van der Meij. He is the building manager for A-Lab and can be found down the hall in Lab.003.
 anne@codum.nl
 
 ```
