@@ -5,17 +5,13 @@ _Collaborate with your colleagues at our HQ and free workspace._
 
 Appsterdam HQ is located at [A Lab](http://a-lab.nl) at Overhoeksplein, 1031 KS, Amsterdam.
 
-### Capacity
+### Directions
 
-28 seats around 4 tables in a large open space right by the front entrance of [A Lab](http://a-lab.nl), Amsterdam's hot new tech hive, located at the old Shell campus, right across the river from Centraal Station.
-
-See the [panorama pic](http://360.io/SCRLA4).
+On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A-Lab is the giant, red brick building right behind the landmark Overhoeks Tower.
 
 ### Hours
 
 Monday-Friday 09:00-18:00
-
-24 hour access is available.
 
 Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/21). 
 
@@ -29,11 +25,16 @@ Volunteer Schedule for 12-16 August 2013:
 | Thursday | Tara Ross | @tross6 | @tross6 | --- |
 | Friday | Gavin Morris | @g7morris | @g7morris | --- |
 
-Please tweet above volunteer to gain entrance if the door is locked. 
+Please tweet above volunteer to gain entrance if the door is locked.
 
-### Location
+24-hour access is available. Ask us about it: info@appsterdam.rs
 
-On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A Lab is the giant, red brick building right behind the landmark green Overhoeks Tower.
+### Capacity
+
+28 seats around 4 tables in a large open space right by the front entrance of [A Lab](http://a-lab.nl), Amsterdam's hot new tech hive, located at the old Shell campus, right across the river from Centraal Station.
+
+See the [panorama pic](http://360.io/SCRLA4).
+
 
 ### Nearby
 
@@ -44,7 +45,7 @@ On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 m
 
 ### Contact
 
-Any problems with the room or the building? Contact Anne van der Meij. He works for Codum and is the building manager for A Lab. You can usually find him down the hall in Lab.003.
+Any problems with the room or the building? Contact Anne van der Meij. He is the building manager for A Lab and can be found down the hall in Lab.003.
 anne@codum.nl
 
 ```
