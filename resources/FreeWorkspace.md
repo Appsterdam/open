@@ -35,6 +35,8 @@ Volunteer Schedule for 12-16 August 2013:
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
+See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
+
 
 ### Nearby
 
