@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.902508,
+                    52.384125,
+                    0
+                ]
+            },
+            "properties": {
+                "marker-symbol": "building",
+                "marker-color": "#C41414",
+                "marker-size": "large",
+                "name": "Appsterdam HQ at A-Lab",
+                "about": "The official Appsterdam HQ Hangout.",
+                "open": "Mo, Tu, We, Th, Fr",
+                "up to date info": "https://github.com/Appsterdam/open/issues/21",
+                "website": "http://www.a-lab.nl"
+            }
+        },
+       {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89934,
+                    52.38060,
+                    0
+                ]
+            },
+            "properties": {
+                "marker-symbol": "ferry",
+                "marker-color": "#C41414",
+                "name": "Ferry To Buiksloterweg",
+                "about": "Here you take the ferry to Buiksloterweg",
+                "timetable": "http://www.ilovenoord.com/ferry/"
+            }
+        }
+    ]
+}
