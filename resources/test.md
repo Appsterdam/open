@@ -1,6 +1,6 @@
 Test 
 
-```geoJSON
+```geo
 {
     "type": "FeatureCollection",
     "features": [
