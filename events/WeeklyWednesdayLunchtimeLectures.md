@@ -4,7 +4,7 @@
 
 The Weekly Wednesday Lunchtime Lectures (WWLL) is an event aimed to spread knowledge between Appsterdammers, while giving an opportunity to speakers to share what they know, improve their presentation skills and be prepared to talk at conferences around the world.
 
-## Description
+## Description
 
 The WWLL take place every week on Wednesdays around lunch time. Doors open at 12:30, when people start coming in and have lunch together while they get to know each other. At 13:00 the lecture starts. The lecture duration is usually between 20 minutes and one hour. After that the attendees get some more time to discuss freely until doors close at 14:30.
 
@@ -56,6 +56,6 @@ The organizer also needs to pay attention to the duration of the lecture and aft
 
 Since facilities are provided by the host and the toppings for lunch are brought by the attendees, there is no cost associated with the WWLL at the moment.
 
-## Staffing
+## Staffing
 
 The WWLL need at least one person to be present at the lecture, set up the venue and handle the scheduling of the speakers. Since the amount of work required to organize the lectures every week is quite significant, at the moment there are three people taking care of the events: one person to organize the lectures every week (Matteo Manferdini), one volunteer to help setting up the venue (Hristo Hristov) and one volunteer to keep the schedule of the lectures and answer to the emails coming to the speakers email address (Eddy Oosterhuis).
