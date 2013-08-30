@@ -1,6 +1,6 @@
 # Appsterdam Volunteers
 _A who's who Directory of Appsterdam board members, volunteers and friends._
-_We're always looking for people to volunteer and help out. Please contact us or come visit our new headquarters at A-Labs!_
+_We're always looking for people to volunteer and help out._ 
 
 Name Role Email Twitter Github
 
@@ -15,6 +15,13 @@ Name Role Email Twitter Github
 | Klaas Speller | Board Member | klaas@appsterdam.rs | @spllr | @spllr |
 
 ###Appsterdam Event Coordinators 
+| Name | Event | Email | Twitter | Github |
+| ---- | :----: | :-----: | :----: | :-----: |
+| Eddy Oosterhuis | Weekly Wednesday Lunchtime Lectures | eddy@appsterdam.rs | -- | -- |
+| Matteo Manferdini | Weekly Wednesday Lunchtime, Monthly Speaker Training Meeting | matteo@appsterdam.rs | @MatManferdini | @matteom |
+| Tara Ross | Pitch Club, Monthly Speaker Training Meeting | tara@appsterdam.rs | @tross6 | @tross6 |
+| Samuel Goodwin | Appsterdam Peer Lab | samuelgoodwin@appsterdam.rs | @samuelgoodwin | sgoodwin |
+| Matt Feigal | Guru Sessions | matt@appsterdam.rs | @mattfgl | --| 
 
 
 ###Appsterdam Global Embassies
