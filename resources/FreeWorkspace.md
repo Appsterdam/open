@@ -15,6 +15,7 @@ See the [panorama pic](http://360.io/SCRLA4).
 
 On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A-Lab is the giant, red brick building right behind the landmark Overhoeks Tower.
 
+If you are arriving by car, see below for parking information.
 
 ### Hours
 
@@ -37,6 +38,10 @@ Volunteer Schedule for 26-30 August 2013:
 
 See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
 
+### Parking
+* Free parking is available in the area behind the building ([blue zone](http://www.noord.amsterdam.nl/wonen/parkeren-verkeer/parkeren/parkeren-blauwe-zone/)) for a maximum of 2.5 hours. Monday to Sunday 09:00-23:00.
+* Paid parking is available at the [EYE Film Museum](http://www.eyefilm.nl/bezoek/contact-en-route). For GPS, navigate to **Tolhuisweg 5**. Rate = €1 per half hour.
+* Parking on the Overhoeksplein is not allowed, access to cars is for loading and unloading only. A Lab is investigating the possibility for permits at the parking lots.
 
 ### Nearby
 
