@@ -40,7 +40,7 @@ We're always looking for people to volunteer and help out in many areas.
 ###Appsterdam Volunteers 
 _(*as compiled from Meetup.com organizers & email lists)_
 | Location | Name | Role | Email | Twitter | Github |
-| ---- | :----: | :-----: | :----: | :-----: |
+| :----: | :----: | :-----: | :----: | :-----: | :-----: | 
 | Amsterdam | Gavin Morris | HQ Volunteer, Coordinator, Email Services & Sysadmin | gavin@appsterdam.rs | @g7morris | @g7morris |
 | Amsterdam | Timo de Winter | HQ Volunteer| -- | @timotje | @timodewinter | 
 | | | | | | |
