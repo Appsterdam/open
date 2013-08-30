@@ -32,7 +32,7 @@ Volunteer Schedule for 2-6 September 2013:
 | Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Wednesday | Mike Lee | @bmf | @ElDragonRojo |  Martinus Meiborg @mmeiborg @martitwit |
 | Thursday | Gavin Morris | @g7morris | @g7morris | --- |
-<!--| Thursday | Tara Ross | @tross6 | @tross6 | - - - | -->
+<!-- Thursday  Tara Ross | @tross6 | @tross6 -->
 | Friday | Gavin Morris | @g7morris | @g7morris | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
