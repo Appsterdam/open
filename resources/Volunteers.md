@@ -11,7 +11,7 @@ We're always looking for people to volunteer and help out in many areas.
 | Matteo Manferdini | Deputy Mayor | matteo@appsterdam.rs | @MatManferdini | @matteom |
 | Judy Chen | Chief Operations Officer | judy@appsterdam.rs | @judykitteh | @judykitteh | 
 | Martinus Meiborg | -- | martinus@appsterdam.rs | @mmeiborg | @martitwit |
-| Tara Ross | Chief Community Officer, Board Member | tara@appsterdam.rs | @tross6 | @tross6 |
+| Tara Ross | Chief Community Officer | tara@appsterdam.rs | @tross6 | @tross6 |
 | Klaas Speller | -- | klaas@appsterdam.rs | @spllr | @spllr |
 
 ###Appsterdam Event Coordinators 
@@ -25,13 +25,23 @@ We're always looking for people to volunteer and help out in many areas.
 
 
 ###Appsterdam Global Embassies
-| Name | Role | Email | Twitter | Github |
-| ---- | :----: | :-----: | :----: | :-----: |
-| | | | | |
+| Location | Name | Role | Email | Twitter | Github | 
+| ---- | :----: | :-----: | :----: | :-----: | :-----: |
+| Global | Aleem Habibullah | Global Embassies Coordinator | aleem@appsterdam.rs | @aleemhab | -- |
+| Augsburg | | | | | |
+| Chicago | | | | | |
+| Delft | | | | | |
+| Greece | Olga Paraskevopoulou | Greece Embassy Coordinator | olga@appsterdam.rs | @olmageddon | @olmageddon |
+| Milan | | | | | |
+| San Francisco | | | | | |
+| Warsaw | | | | | |
 
-###Appsterdam Volunteers _(Amsterdam)_
-| Name | Role | Email | Twitter | Github |
+
+###Appsterdam Volunteers 
+_(*as compiled from Meetup.com organizers & email lists)_
+| Location | Name | Role | Email | Twitter | Github |
 | ---- | :----: | :-----: | :----: | :-----: |
-| Gavin Morris | HQ Volunteer, Coordinator, Email Services & Sysadmin | gavin@appsterdam.rs | @g7morris | @g7morris |
-| Timo de Winter | HQ Volunteer| | @timotje | @timodewinter | 
-| | | | | |
+| Amsterdam | Gavin Morris | HQ Volunteer, Coordinator, Email Services & Sysadmin | gavin@appsterdam.rs | @g7morris | @g7morris |
+| Amsterdam | Timo de Winter | HQ Volunteer| -- | @timotje | @timodewinter | 
+| | | | | | |
+| Greece | Alkisti Skiadopoulou | Volunteer| alkisti@appsterdam.rs| | -- | -- |
