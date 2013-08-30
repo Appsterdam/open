@@ -26,7 +26,7 @@ We're always looking for people to volunteer and help out in many areas.
 
 ###Appsterdam Global Embassies
 | Location | Name | Role | Email | Twitter | Github | 
-| ---- | :----: | :-----: | :----: | :-----: | :-----: |
+| ---- | ---- | ----- | :----: | :-----: | :-----: |
 | Global | Aleem Habibullah | Global Embassies Coordinator | aleem@appsterdam.rs | @aleemhab | -- |
 | Augsburg | | | | | |
 | Chicago | | | | | |
@@ -38,10 +38,10 @@ We're always looking for people to volunteer and help out in many areas.
 
 
 ###Appsterdam Volunteers 
-_(*as compiled from Meetup.com organizers & email lists)_
+_(as compiled from Meetup.com organizers & email lists)_
 | Location | Name | Role | Email | Twitter | Github |
-| :----: | :----: | :-----: | :----: | :-----: | :-----: | 
+| :----: | :----: | :----: | :----: | :----: | :----: |
 | Amsterdam | Gavin Morris | HQ Volunteer, Coordinator, Email Services & Sysadmin | gavin@appsterdam.rs | @g7morris | @g7morris |
 | Amsterdam | Timo de Winter | HQ Volunteer| -- | @timotje | @timodewinter | 
 | | | | | | |
-| Greece | Alkisti Skiadopoulou | Volunteer| alkisti@appsterdam.rs| | -- | -- |
+| Greece | Alkisti Skiadopoulou | Volunteer| alkisti@appsterdam.rs | -- | -- |
