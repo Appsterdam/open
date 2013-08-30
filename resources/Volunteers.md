@@ -1,26 +1,26 @@
 # Appsterdam Volunteers
-_A who's who Directory of Appsterdam board members, volunteers and friends._
-_We're always looking for people to volunteer and help out._ 
+A _who's who_ Directory of Appsterdam board members, volunteers and friends.
 
-Name Role Email Twitter Github
+We're always looking for people to volunteer and help out in many areas. 
 
-###Appsterdam Board Members (Amsterdam, The Netherlands)
+
+###Appsterdam Board Members 
 | Name | Role | Email | Twitter | Github |
 | ---- | :----: | :-----: | :----: | :-----: |
 | Mike Lee | Mayor | mike@appsterdam.rs | @bmf | @ElDragonRojo |
 | Matteo Manferdini | Deputy Mayor | matteo@appsterdam.rs | @MatManferdini | @matteom |
 | Judy Chen | Chief Operations Officer | judy@appsterdam.rs | @judykitteh | @judykitteh | 
-| Martinus Meiborg | Board Member | martinus@appsterdam.rs | @mmeiborg | @martitwit |
+| Martinus Meiborg | -- | martinus@appsterdam.rs | @mmeiborg | @martitwit |
 | Tara Ross | Chief Community Officer, Board Member | tara@appsterdam.rs | @tross6 | @tross6 |
-| Klaas Speller | Board Member | klaas@appsterdam.rs | @spllr | @spllr |
+| Klaas Speller | -- | klaas@appsterdam.rs | @spllr | @spllr |
 
 ###Appsterdam Event Coordinators 
 | Name | Event | Email | Twitter | Github |
 | ---- | :----: | :-----: | :----: | :-----: |
 | Eddy Oosterhuis | Weekly Wednesday Lunchtime Lectures | eddy@appsterdam.rs | -- | -- |
-| Matteo Manferdini | Weekly Wednesday Lunchtime, Monthly Speaker Training Meeting | matteo@appsterdam.rs | @MatManferdini | @matteom |
-| Tara Ross | Pitch Club, Monthly Speaker Training Meeting | tara@appsterdam.rs | @tross6 | @tross6 |
-| Samuel Goodwin | Appsterdam Peer Lab | samuelgoodwin@appsterdam.rs | @samuelgoodwin | sgoodwin |
+| Matteo Manferdini | Weekly Wednesday Lunchtime & Monthly Speaker Training Meeting | matteo@appsterdam.rs | @MatManferdini | @matteom |
+| Tara Ross | Pitch Club & Monthly Speaker Training Meeting | tara@appsterdam.rs | @tross6 | @tross6 |
+| Samuel Goodwin | Peer Lab | samuelgoodwin@appsterdam.rs | @samuelgoodwin | sgoodwin |
 | Matt Feigal | Guru Sessions | matt@appsterdam.rs | @mattfgl | --| 
 
 
