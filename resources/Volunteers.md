@@ -8,7 +8,6 @@ We're always looking for people to volunteer and help out in many areas.
 | Name | Role | Email | Twitter | Github |
 | ---- | :----: | :-----: | :----: | :-----: |
 | Mike Lee | Mayor | mike@appsterdam.rs | @bmf | @ElDragonRojo |
-| Matteo Manferdini | Deputy Mayor | matteo@appsterdam.rs | @MatManferdini | @matteom |
 | Judy Chen | Chief Operations Officer | judy@appsterdam.rs | @judykitteh | @judykitteh | 
 | Martinus Meiborg | -- | martinus@appsterdam.rs | @mmeiborg | @martitwit |
 | Tara Ross | Chief Community Officer | tara@appsterdam.rs | @tross6 | @tross6 |
