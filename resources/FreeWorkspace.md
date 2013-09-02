@@ -28,9 +28,9 @@ Volunteer Schedule for 2-6 September 2013:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Gavin Morris | @g7morris | @g7morris | --- |
+| Monday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Wednesday | Mike Lee | @bmf | @ElDragonRojo |  Martinus Meiborg @mmeiborg @martitwit |
+| Wednesday | Mike Lee | @bmf | @ElDragonRojo | Martinus Meiborg @mmeiborg @martitwit |
 | Thursday | Gavin Morris | @g7morris | @g7morris | --- |
 | Friday | Gavin Morris | @g7morris | @g7morris | --- |
 
