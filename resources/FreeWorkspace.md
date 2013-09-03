@@ -35,6 +35,7 @@ Volunteer Schedule for 2-6 September 2013:
 | Friday | Gavin Morris | @g7morris | @g7morris | --- |
 
 Volunteer Schedule for 9-13 September 2013:
+
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | ??? | ??? | ??? | ??? |
