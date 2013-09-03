@@ -34,6 +34,15 @@ Volunteer Schedule for 2-6 September 2013:
 | Thursday | Gavin Morris | @g7morris | @g7morris | --- |
 | Friday | Gavin Morris | @g7morris | @g7morris | --- |
 
+Volunteer Schedule for 9-13 September 2013:
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | ??? | ??? | ??? | ??? |
+| Tuesday | Tara Ross | @tross6 | @tross6 | --- |
+| Wednesday | ??? | ??? | ??? | ??? |
+| Thursday | Tara Ross | @tross6 | @tross6 | --- |
+| Friday | ??? | ??? | ??? | Valentina Rao @PlayfulPanda1 |
+
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
 See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
