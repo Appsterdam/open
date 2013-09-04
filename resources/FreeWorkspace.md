@@ -76,5 +76,19 @@ m +31 6 479 479 49
 i www.CODUM.nl
 www.facebook.com/ALAB.CODUM
 www.twitter.com/AlabCodum
+```
 
+If you need mail sent to our address, you can address letters as follows:
+```
+<company name>
+Lab.001
+Postbus 3322
+1001 AC Amsterdam
+```
+For packages, use this address:
+```
+<company name>
+Lab.001
+Overhoeksplein 2
+1031 KS Amsterdam
 ```
