@@ -40,7 +40,7 @@ Volunteer Schedule for 9-13 September 2013:
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Tara Ross | @tross6 | @tross6 | --- |
 | Tuesday | Tara Ross | @tross6 | @tross6 | --- |
-| Wednesday | ??? | ??? | ??? | ??? |
+| Wednesday | Ron Jones | @__r__o__n__ | @ron- | ??? |
 | Thursday | Tara Ross | @tross6 | @tross6 | --- |
 | Friday | ??? | ??? | ??? | Valentina Rao @PlayfulPanda1 |
 
