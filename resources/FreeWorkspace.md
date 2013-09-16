@@ -44,6 +44,16 @@ Volunteer Schedule for 9-13 September 2013:
 | Thursday | Tara Ross | @tross6 | @tross6 | --- |
 | Friday | ??? | ??? | ??? | Valentina Rao @PlayfulPanda1 |
 
+Volunteer Schedule for 16-19 September 2013:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | Tara Ross | @tross6 | @tross6 | --- |
+| Tuesday | ??? | ??? | ??? | --- |
+| Wednesday | Tara Ross AM/Valentina Rao PM | @tross6/@PlayfulPanda1| --- | --- |
+| Thursday | Casper Koomen/Valentina Rao PM | @CasperKoomen/@PlayfulPanda1 | ----- | --- |
+| Friday | ??? | ??? | ??? | ???|
+
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
 See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
