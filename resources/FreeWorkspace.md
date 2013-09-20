@@ -52,7 +52,7 @@ Volunteer Schedule for 16-19 September 2013:
 | Tuesday | Tara Ross AM/Ron Jones PM | @tross6 / @__r__o__n__ | --- | --- |
 | Wednesday | Tara Ross AM/Valentina Rao PM | @tross6/@PlayfulPanda1| --- | --- |
 | Thursday | Tara Ross | @tross6 | ---- | --- |
-| Friday | Capser Koomen | @CasperKoomen | --- | --- |
+| Friday | Francisca Kapar AM / ??? PM | @FranciscaKapar | --- | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
