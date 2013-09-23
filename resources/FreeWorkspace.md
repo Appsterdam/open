@@ -22,17 +22,7 @@ If you are arriving by car, see below for parking information.
 Monday-Friday 09:00-18:00
 
 Please tweet the scheduled volunteer below to gain entrance if the door is locked.
-Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/). 
-
-Volunteer Schedule for 16-19 September 2013:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Tara Ross | @tross6 | @tross6 | --- |
-| Tuesday | Tara Ross AM/Ron Jones PM | @tross6 / @__r__o__n__ | --- | --- |
-| Wednesday | Tara Ross AM/Valentina Rao PM | @tross6/@PlayfulPanda1| --- | --- |
-| Thursday | Tara Ross | @tross6 | ---- | --- |
-| Friday | Francisca Kapar AM / ??? PM | @FranciscaKapar | --- | --- |
+Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
 Volunteer Schedule for 23-27 September 2013:
 
@@ -43,6 +33,16 @@ Volunteer Schedule for 23-27 September 2013:
 | Wednesday | ??? | ??? | --- | --- |
 | Thursday | ??? | ??? | ---- | --- |
 | Friday | ??? | ??? | --- | --- |
+
+Volunteer Schedule for 30 September - 4 October 2013:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | ??? | ??? | ??? | --- |
+| Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
+| Wednesday | ??? | ??? | ??? | --- |
+| Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
+| Friday | ??? | ??? | ??? | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
