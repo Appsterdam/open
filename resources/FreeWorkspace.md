@@ -24,26 +24,6 @@ Monday-Friday 09:00-18:00
 Please tweet the scheduled volunteer below to gain entrance if the door is locked.
 Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/21). 
 
-Volunteer Schedule for 2-6 September 2013:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Wednesday | Mike Lee | @bmf | @ElDragonRojo | Martinus Meiborg @mmeiborg @martitwit |
-| Thursday | ??? | ??? | ??? | ??? |
-| Friday | Tara Ross | @tross6 | @tross6 | --- |
-
-Volunteer Schedule for 9-13 September 2013:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Tara Ross | @tross6 | @tross6 | --- |
-| Tuesday | Tara Ross | @tross6 | @tross6 | --- |
-| Wednesday | Ron Jones | @__r__o__n__ | @ron- | ??? |
-| Thursday | Tara Ross | @tross6 | @tross6 | --- |
-| Friday | ??? | ??? | ??? | Valentina Rao @PlayfulPanda1 |
-
 Volunteer Schedule for 16-19 September 2013:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
@@ -53,6 +33,16 @@ Volunteer Schedule for 16-19 September 2013:
 | Wednesday | Tara Ross AM/Valentina Rao PM | @tross6/@PlayfulPanda1| --- | --- |
 | Thursday | Tara Ross | @tross6 | ---- | --- |
 | Friday | Francisca Kapar AM / ??? PM | @FranciscaKapar | --- | --- |
+
+Volunteer Schedule for 23-27 September 2013:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | Francisca Kapar | @FranciscaKapar| --- | --- |
+| Tuesday | Tara Ross | @tross6 | --- | --- |
+| Wednesday | ??? | ??? | --- | --- |
+| Thursday | ??? | ??? | ---- | --- |
+| Friday | ??? | ??? | --- | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
