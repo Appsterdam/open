@@ -30,9 +30,9 @@ Volunteer Schedule for 23-27 September 2013:
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Francisca Kapar | @FranciscaKapar| --- | --- |
 | Tuesday | Tara Ross | @tross6 | --- | --- |
-| Wednesday | ??? | ??? | --- | --- |
-| Thursday | ??? | ??? | ---- | --- |
-| Friday | ??? | ??? | --- | --- |
+| Wednesday | ??? | ??? | ??? | --- |
+| Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
+| Friday | ??? | ??? | ??? | --- |
 
 Volunteer Schedule for 30 September - 4 October 2013:
 
