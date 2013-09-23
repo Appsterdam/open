@@ -1,0 +1,25 @@
+# Tips for using GitHub
+
+## Filing issues
+
+### Rule 1: _Can it be closed?_
+
+Try to make sure issues can be closed.
+
+For example, opening an issue for coordinating the opening of A Lab on Monday is very valid.
+
+### Rule 2: _Can it be assigned?_
+
+Issues are most effective if they can be assigned to someone responsible.
+
+So when rule one is applied, you should be able to open an issue for _a task (such as coordinating the A Lab door manager)_ and assign it to whoever is expected to do this.
+
+This also makes it easier to swap responsible people, notify them, give them the option to un-assign themselves and keep track of tasks which have no responsible person.
+
+### Rule 3: _Reference issues_
+
+The issue tracker allows you to reference issues. So it's good to have one master ticket like this one for the week of A Lab key coordination, and then create sub tickets which reference the main ticket. Referencing is as easy as typing a `#` and then the issue number. When using the web interface, it will autocomplete for you.
+
+### Rule 4: _Use GitHub usernames_
+
+Mentioning people by their GitHub username will notify them via email. And next to that, it's pretty much the same reason why you should use `@username` conventions on Twitter.
