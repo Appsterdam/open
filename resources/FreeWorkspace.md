@@ -22,7 +22,7 @@ If you are arriving by car, see below for parking information.
 Monday-Friday 09:00-18:00
 
 Please tweet the scheduled volunteer below to gain entrance if the door is locked.
-Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/21). 
+Keys are [coordinated in GitHub](https://github.com/Appsterdam/open/issues/). 
 
 Volunteer Schedule for 16-19 September 2013:
 
@@ -77,6 +77,8 @@ i www.CODUM.nl
 www.facebook.com/ALAB.CODUM
 www.twitter.com/AlabCodum
 ```
+
+If you need to print something, follow [these instructions](https://github.com/Appsterdam/open/blob/master/resources/Printing%40ALab.md).
 
 If you need mail sent to our address, you can address letters as follows:
 ```
