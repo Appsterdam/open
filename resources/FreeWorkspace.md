@@ -13,7 +13,7 @@ See the [panorama pic](http://360.io/SCRLA4).
 
 ### Directions
 
-On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A-Lab is the giant, red brick building right behind the landmark Overhoeks Tower.
+On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A Lab is the giant, red brick building right behind the landmark Overhoeks Tower.
 
 If you are arriving by car, see below for parking information.
 
