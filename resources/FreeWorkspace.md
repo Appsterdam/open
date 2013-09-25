@@ -28,11 +28,11 @@ Volunteer Schedule for 23-27 September 2013:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Francisca Kapar | @FranciscaKapar| --- | --- |
+| Monday | Francisca Kapar | @FranciscaKapar| @Cestlebrate | --- |
 | Tuesday | Tara Ross | @tross6 | --- | --- |
-| Wednesday | ??? | ??? | ??? | --- |
+| Wednesday | Francisca AM / Judy PM | @FranciscaKapar/@judykitteh | @Cestlebrate/@judykitteh | --- |
 | Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Friday | ??? | ??? | ??? | --- |
+| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 Volunteer Schedule for 30 September - 4 October 2013:
 
