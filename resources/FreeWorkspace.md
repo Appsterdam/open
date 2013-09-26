@@ -38,7 +38,7 @@ Volunteer Schedule for 30 September - 4 October 2013:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | ??? | ??? | ??? | --- |
+| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Wednesday | ??? | ??? | ??? | --- |
 | Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
