@@ -42,7 +42,7 @@ Volunteer Schedule for 30 September - 4 October 2013:
 | Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Wednesday | ??? | ??? | ??? | --- |
 | Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Friday | ??? | ??? | ??? | --- |
+| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
