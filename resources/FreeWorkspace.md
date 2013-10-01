@@ -30,9 +30,19 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Wednesday | ??? | ??? | ??? | --- |
+| Wednesday | Mike Lee | @bmf | @eldragonrojo | --- |
 | Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
+
+**Volunteer Schedule for 7-11 October 2013**:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | ??? | ??? | ??? | --- |
+| Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
+| Wednesday | ??? | ??? | ??? | --- |
+| Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
+| Friday | ??? | ??? | ??? | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
