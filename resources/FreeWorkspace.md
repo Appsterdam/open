@@ -24,16 +24,6 @@ Monday-Friday 09:00-18:00
 Please tweet the scheduled volunteer below to gain entrance if the door is locked.
 Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
-**Volunteer Schedule for 30 September - 4 October 2013**:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Wednesday | Mike Lee | @bmf | @eldragonrojo | --- |
-| Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
-
 **Volunteer Schedule for 7-11 October 2013**:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
@@ -42,6 +32,16 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Tuesday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Wednesday | ??? AM / Valentina Rao PM | ??? / @PlayfulPanda1 | ??? / @PlayfulPandas | --- |
 | Thursday | Judy Chen | @judykitteh | @judykitteh | --- |
+| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
+
+**Volunteer Schedule for 14-18 October 2013**:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
+| Tuesday | ---  | --- | --- | --- |
+| Wednesday | ---  | --- | --- | --- |
+| Thursday | ---  | --- | --- | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
