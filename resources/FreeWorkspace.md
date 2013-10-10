@@ -44,6 +44,16 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Thursday | Fabio Tiriticco  | @ticofab | @ticofab | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
+**Volunteer Schedule for 21-25 October 2013**:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | ??? | ??? | ??? | --- |
+| Tuesday | Judy Chen AM / ??? PM | @judykitteh AM / ??? PM | @judykitteh / ??? | --- |
+| Wednesday | Judy Chen AM / ??? PM | @judykitteh AM / ??? PM | @judykitteh / ??? | --- |
+| Thursday | Judy Chen AM / ??? PM | @judykitteh AM / ??? PM | @judykitteh / ??? | --- |
+| Friday | ??? | ??? | ??? | --- |
+
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
 See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
