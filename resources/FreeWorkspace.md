@@ -40,8 +40,8 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | Judy Chen AM / ??? PM | @judykiteh / ??? | @judykitteh / ??? | --- |
-| Wednesday | ---  | --- | --- | --- |
-| Thursday | ---  | --- | --- | --- |
+| Wednesday | ???  | ??? | ??? | ??? |
+| Thursday | ???  | ??? | ??? | ??? |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
