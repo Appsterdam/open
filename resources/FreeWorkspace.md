@@ -48,11 +48,11 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | ??? | ??? | ??? | --- |
+| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | Judy Chen AM / ??? PM | @judykitteh AM / ??? PM | @judykitteh / ??? | --- |
 | Wednesday | Judy Chen AM / ??? PM | @judykitteh AM / ??? PM | @judykitteh / ??? | --- |
 | Thursday | Judy Chen AM / ??? PM | @judykitteh AM / ??? PM | @judykitteh / ??? | --- |
-| Friday | ??? | ??? | ??? | --- |
+| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
