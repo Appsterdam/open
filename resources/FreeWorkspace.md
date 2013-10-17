@@ -79,8 +79,10 @@ www.facebook.com/ALAB.CODUM
 www.twitter.com/AlabCodum
 ```
 
+### Printing
 If you need to print something, follow [these instructions](https://github.com/Appsterdam/open/blob/master/resources/Printing%40ALab.md).
 
+### Mail
 If you need mail sent to our address, you can address letters as follows:
 ```
 <company name>
