@@ -25,16 +25,6 @@ Please tweet the scheduled volunteer below to gain entrance if the door is locke
 Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
 
-**Volunteer Schedule for 14-18 October 2013**:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Tom van Arman AM / Hristo Hristov PM | @tomvanarman / @ribeto | @tomvanarman / @ribeto | --- |
-| Tuesday | Judy Chen AM / Hristo Hristov PM | @judykiteh / @ribeto | @judykitteh / @ribeto | --- |
-| Wednesday | Giovanni Maggini  | @maggix | @maggix | --- |
-| Thursday | Fabio Tiriticco  | @ticofab | @ticofab | --- |
-| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
-
 **Volunteer Schedule for 21-25 October 2013**:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
