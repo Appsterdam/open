@@ -32,7 +32,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | ??? AM / Tom van Arman PM | ??? AM / @tomvanarman PM | ??? / @tomvanarman | --- |
 | Wednesday | Tom van Arman AM / Giovanni Maggini PM | @tomvanarman AM / @maggix PM | @tomvanarman / @maggix | --- |
-| Thursday | Fabio Tiriticco PM | @ticofab | @ticofab | --- |
+| Thursday | Fabio Tiriticco | @ticofab | @ticofab | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
