@@ -14,6 +14,6 @@ Go to a document and proceed as if you're printing it. Under 'Printer Features,'
 ![screen shot 2013-09-03 at 14 18 37](https://f.cloud.github.com/assets/3933753/1072515/0f4f04d4-1493-11e3-9be4-ee9d2df571bb.png)
 
 Now go to 'Job Log,' select 'Enable User Code,' and enter the 6-digit code as shown:
-![screen shot 2013-09-03 at 14 21 46](https://f.cloud.github.com/assets/3933753/1072533/6f509938-1493-11e3-9d23-1970e92bae2a.png)
+![screen shot 2013-09-03 at 14 21 46](https://f.cloud.github.com/assets/404723/1371175/a5e172ae-3a33-11e3-9f9c-9026a6756610.png)
 
 Click on 'Print' and see if the page came out. If it didn't, ask Anne for help.
