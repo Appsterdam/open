@@ -39,10 +39,10 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | ??? | ??? | ??? | ??? |
+| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | ??? | ??? | ??? | ??? |
 | Wednesday | ??? | ??? | ??? | ??? |
-| Thursday | ??? | ??? | ??? | ??? |
+| Thursday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Friday | ??? | ??? | ??? | ??? |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
