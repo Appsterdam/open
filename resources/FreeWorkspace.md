@@ -43,7 +43,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Tuesday | Giovanni Maggini | @maggix | @maggix | --- |
 | Wednesday | Fabio Tiriticco | @ticofab | @ticofab | --- |
 | Thursday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Friday | ??? | ??? | ??? | ??? |
+| Friday | Judy Chen | @judykitteh | @judykitteh | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
 
