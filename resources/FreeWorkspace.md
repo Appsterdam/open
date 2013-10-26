@@ -24,17 +24,6 @@ Monday-Friday 09:00-18:00
 Please tweet the scheduled volunteer below to gain entrance if the door is locked.
 Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
-
-**Volunteer Schedule for 21-25 October 2013**:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Tuesday | ??? AM / Tom van Arman PM | ??? AM / @tomvanarman PM | ??? / @tomvanarman | --- |
-| Wednesday | Tom van Arman AM / Giovanni Maggini PM | @tomvanarman AM / @maggix PM | @tomvanarman / @maggix | --- |
-| Thursday | Fabio Tiriticco | @ticofab | @ticofab | --- |
-| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
-
 **Volunteer Schedule for 28 October - 1 November 2013**:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
@@ -45,11 +34,22 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Thursday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Friday | Judy Chen | @judykitteh | @judykitteh | --- |
 
-24-hour access is available. Ask us about it: info@appsterdam.rs
+**Volunteer Schedule for 4 - 9 November 2013**:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | ??? | ??? | ??? | --- |
+| Tuesday | ??? | ??? | ??? | --- |
+| Wednesday | ??? | ??? | ??? | --- |
+| Thursday | ??? | ??? | ??? | --- |
+| Friday | ??? | ??? | ??? | --- |
+
+24-hour access is available. Ask A Lab about it: info@codum.nl
 
 See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
 
 ### Parking
+
 * Free parking is available in the area behind the building ([blue zone](http://www.noord.amsterdam.nl/wonen/parkeren-verkeer/parkeren/parkeren-blauwe-zone/)) for a maximum of 2.5 hours. Monday to Sunday 09:00-23:00.
 * Paid parking is available at the [EYE Film Museum](http://www.eyefilm.nl/bezoek/contact-en-route). For GPS, navigate to **Tolhuisweg 5**. Rate = €1 per half hour.
 * Parking on the Overhoeksplein is not allowed, access to cars is for loading and unloading only. A Lab is investigating the possibility for permits at the parking lots.
