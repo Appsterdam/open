@@ -15,7 +15,10 @@ See the [panorama pic](http://360.io/SCRLA4).
 
 On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A Lab is the giant, red brick building right behind the landmark Overhoeks Tower.
 
+See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
+
 If you are arriving by car, see below for parking information.
+
 
 ### Hours
 
@@ -46,13 +49,13 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 
 24-hour access is available. Ask A Lab about it: info@codum.nl
 
-See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
 
 ### Parking
 
 * Free parking is available in the area behind the building ([blue zone](http://www.noord.amsterdam.nl/wonen/parkeren-verkeer/parkeren/parkeren-blauwe-zone/)) for a maximum of 2.5 hours. Monday to Sunday 09:00-23:00.
 * Paid parking is available at the [EYE Film Museum](http://www.eyefilm.nl/bezoek/contact-en-route). For GPS, navigate to **Tolhuisweg 5**. Rate = €1 per half hour.
 * Parking on the Overhoeksplein is not allowed, access to cars is for loading and unloading only. A Lab is investigating the possibility for permits at the parking lots.
+
 
 ### Nearby
 
@@ -81,6 +84,7 @@ www.twitter.com/AlabCodum
 
 ### Printing
 If you need to print something, follow [these instructions](https://github.com/Appsterdam/open/blob/master/resources/Printing%40ALab.md).
+
 
 ### Mail
 If you need mail sent to our address, you can address letters as follows:
