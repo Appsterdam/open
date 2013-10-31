@@ -41,7 +41,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | ??? | ??? | ??? | --- |
+| Monday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Tuesday | ??? | ??? | ??? | --- |
 | Wednesday | ??? | ??? | ??? | --- |
 | Thursday | ??? | ??? | ??? | --- |
