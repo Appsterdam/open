@@ -42,7 +42,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Judy Chen | @judykitteh | @judykitteh | --- |
-| Tuesday | ??? AM / Hristo Hristov PM | @ribeto | @ribeto | --- |
+| Tuesday | Judy Chen AM AM / Hristo Hristov PM | @judykitteh / @ribeto | @judykitteh / @ribeto | --- |
 | Wednesday | Fabio Tiriticco | @ticofab | @ticofab | --- |
 | Thursday | ??? | ??? | ??? | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
