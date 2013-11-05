@@ -27,23 +27,23 @@ Monday-Friday 09:00-18:00
 Please tweet the scheduled volunteer below to gain entrance if the door is locked.
 Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
-**Volunteer Schedule for 28 October - 1 November 2013**:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Tuesday | Giovanni Maggini | @maggix | @maggix | --- |
-| Wednesday | Fabio Tiriticco | @ticofab | @ticofab | --- |
-| Thursday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Friday | Judy Chen | @judykitteh | @judykitteh | --- |
-
-**Volunteer Schedule for 4 - 9 November 2013**:
+**Volunteer Schedule for 4 - 8 November 2013**:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Tuesday | Judy Chen AM AM / Hristo Hristov PM | @judykitteh / @ribeto | @judykitteh / @ribeto | --- |
 | Wednesday | Fabio Tiriticco | @ticofab | @ticofab | --- |
+| Thursday | ??? | ??? | ??? | --- |
+| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
+
+**Volunteer Schedule for 11 - 15 November 2013**:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
+| Tuesday | ??? | ??? | ??? | --- |
+| Wednesday | ??? | ??? | ??? | --- |
 | Thursday | ??? | ??? | ??? | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
