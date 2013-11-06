@@ -34,7 +34,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Monday | Judy Chen | @judykitteh | @judykitteh | --- |
 | Tuesday | Judy Chen AM AM / Hristo Hristov PM | @judykitteh / @ribeto | @judykitteh / @ribeto | --- |
 | Wednesday | Fabio Tiriticco | @ticofab | @ticofab | --- |
-| Thursday | ??? | ??? | ??? | --- |
+| Thursday | Francisca Kapar | @FranciscaKapar | @FranciscaKapar | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 **Volunteer Schedule for 11 - 15 November 2013**:
