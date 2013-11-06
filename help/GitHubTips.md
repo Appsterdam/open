@@ -23,3 +23,24 @@ The issue tracker allows you to reference issues. So it's good to have one maste
 ### Rule 4: _Use GitHub usernames_
 
 Mentioning people by their GitHub username will notify them via email. And next to that, it's pretty much the same reason why you should use `@username` conventions on Twitter.
+
+## Getting notified of issues
+
+Notifications are powered by the watch button
+
+
+Notifications are powered by the repositories you are watching. If you are watching a repository, you will receive notifications for all discussions.
+
+* Issues and their comments
+* Pull Requests and their comments
+* Comments on any commits
+
+If you are not watching a repository, you'll only be notified for discussions for which you participate.
+
+* @mentions
+* Assignments
+* Commits you author or commit
+* Any discussion you've commented on
+
+You're automatically watching a bunch of repositories based on your permissions — it's probably a good idea to go through and unwatch repositories you're not interested in.
+
