@@ -44,7 +44,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | Fabio Tiriticco | @ticofab | @ticofab | --- |
 | Wednesday | Fabio Tiriticco | @ticofab | @ticofab | --- |
-| Thursday | ??? | ??? | ??? | --- |
+| Thursday | Giovanni Maggini | @maggix | @maggix | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 24-hour access is available. Ask A Lab about it: info@codum.nl
