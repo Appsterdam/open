@@ -32,9 +32,9 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Tuesday | ??? | ??? | ??? | --- |
-| Wednesday | ??? | ??? | ??? | --- |
-| Thursday | ??? | ??? | ??? | --- |
+| Tuesday | Giovanni Maggini | @maggix | @maggix | --- |
+| Wednesday | Giovanni Maggini | @maggix | @maggix | --- |
+| Thursday | Tom van Arman | ??? | ??? | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 **Volunteer Schedule for 25 - 29 November 2013**:
