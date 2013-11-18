@@ -34,7 +34,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | Giovanni Maggini | @maggix | @maggix | --- |
 | Wednesday | Giovanni Maggini | @maggix | @maggix | --- |
-| Thursday | Tom van Arman | ??? | ??? | --- |
+| Thursday | Tom van Arman | @tomvanarman | @tomvanarman |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 **Volunteer Schedule for 25 - 29 November 2013**:
