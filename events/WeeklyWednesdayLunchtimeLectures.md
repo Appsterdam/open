@@ -24,7 +24,7 @@ Speakers get a stage where they can present their discoveries, teaching everybod
 
 The attendees, on the other hand, get to learn something valuable every week so they can improve their skills, products and businesses. The WWLL is also a good place to network and to meet new people and a good entry point for people new to our organization. Many people get in contact with Appsterdam for the first time through the WWLL.
 
-## Preparation andsSetup of the room
+## Preparation and Setup of the room
 
 The organizer needs to be at the venue around 12:00 to meet the speaker, set up the venue and make sure that everything works properly for the presentation.
 
@@ -44,7 +44,7 @@ When the lecture ends, the room needs to be cleaned and all these points need to
 Before the lecture starts, an introduction needs to be made by the organizer. It’s usually made of these points:
 
 - welcome people and thank the host
-- explain what the purpose of the WWLL is and make clear to the attendees that anybody can propose a lecture and be scheduled, by writing an email to speakers@appsterdam.nl
+- explain what the purpose of the WWLL is and make clear to the attendees that anybody can propose a lecture and be scheduled, by writing an email to speakers@appsterdam.rs
 - present our "pay what you can afford" model: people are invited to put some pocket change in a donation bag to support Appsterdam, since we are a volunteer non profit organization. The donation is optional and it needs to be specified that everyone is free to pass the bag along if they cannot afford to donate any money at the moment or do not see the value that Appsterdam is providing yet.
 - announce other coming meetups or special events and direct the people to our meetup page
 - give space to any special announcement, if available
