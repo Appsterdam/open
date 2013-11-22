@@ -41,11 +41,11 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | ??? | ??? | ??? | --- |
+| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | ??? | ??? | ??? | --- |
 | Wednesday | ??? | ??? | ??? | --- |
 | Thursday | ??? | ??? | ??? | --- |
-| Friday | ??? | ??? | ??? | --- |
+| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 24-hour access is available. Ask A Lab about it: info@codum.nl
 
