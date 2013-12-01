@@ -32,7 +32,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Tuesday | Tom van Arman | @tomvanarman | @tomvanarman | 0613703135 |
+| Tuesday | Giovanni Maggini / Tom van Arman | @maggix / @tomvanarman | @maggix / @tomvanarman | 0613703135 |
 | Wednesday | ??? | ??? | ??? | --- |
 | Thursday | ??? | ??? | ??? | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
