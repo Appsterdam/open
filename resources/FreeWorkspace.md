@@ -27,17 +27,8 @@ Monday-Friday 09:00-18:00
 Please tweet the scheduled volunteer below to gain entrance if the door is locked.
 Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
-**Volunteer Schedule for 9 - 13 December 2013**:
 
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Tuesday | ??? | ??? | ??? | --- |
-| Wednesday | ??? | ??? | ??? | --- |
-| Thursday | ??? | ??? | ??? | --- |
-| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
-
-**Volunteer Schedule for 16 - 20 December 2013**:
+**Volunteer Schedule for 23 - 27 December 2013**:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
