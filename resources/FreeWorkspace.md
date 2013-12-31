@@ -28,7 +28,7 @@ Please tweet the scheduled volunteer below to gain entrance if the door is locke
 Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
 
-**Volunteer Schedule for 23 - 27 December 2013**:
+**Volunteer Schedule for 7 - 10 January 2014**:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
