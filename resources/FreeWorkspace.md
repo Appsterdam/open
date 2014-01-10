@@ -28,23 +28,13 @@ Please tweet the scheduled volunteer below to gain entrance if the door is locke
 Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
 
-**Volunteer Schedule for 7 - 10 January 2014**:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
-| Tuesday | ??? | ??? | ??? | --- |
-| Wednesday | Gavin Morris | @g7morris | @g7morris | --- |
-| Thursday | ??? | ??? | ??? | --- |
-| Friday | Hristo Hristov | @ribeto | @ribeto | --- |
-
 **Volunteer Schedule for 13 - 17 January 2014**:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
+| Monday | ??? | ??? | ??? | --- |
 | Tuesday | ??? | ??? | ??? | --- |
-| Wednesday | Hristo Hristov | @ribeto | @ribeto | --- |
+| Wednesday | ??? | ??? | ??? | --- |
 | Thursday | ??? | ??? | ??? | --- |
 | Friday | ??? | ??? | ??? | --- |
 
