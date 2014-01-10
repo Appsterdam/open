@@ -38,6 +38,16 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Thursday | ??? | ??? | ??? | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
+**Volunteer Schedule for 13 - 17 January 2014**:
+
+| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
+| --- | :------------: | :------------: | :-----------: | :-------: |
+| Monday | Hristo Hristov | @ribeto | @ribeto | --- |
+| Tuesday | ??? | ??? | ??? | --- |
+| Wednesday | Hristo Hristov | @ribeto | @ribeto | --- |
+| Thursday | ??? | ??? | ??? | --- |
+| Friday | ??? | ??? | ??? | --- |
+
 24-hour access is available. Ask A Lab about it: info@codum.nl
 
 
