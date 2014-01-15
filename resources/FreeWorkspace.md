@@ -35,8 +35,8 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Monday | ??? | ??? | ??? | --- |
 | Tuesday | ??? | ??? | ??? | --- |
 | Wednesday | ??? | ??? | ??? | --- |
-| Thursday | ??? | ??? | ??? | --- |
-| Friday | ??? | ??? | ??? | --- |
+| Thursday | Giovanni Maggini | @maggix | @maggix | --- |
+| Friday | Giovanni Maggini | @maggix | @maggix | --- |
 
 24-hour access is available. Ask A Lab about it: info@codum.nl
 
