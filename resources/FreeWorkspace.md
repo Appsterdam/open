@@ -28,15 +28,15 @@ Please tweet the scheduled volunteer below to gain entrance if the door is locke
 Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
 
 
-**Volunteer Schedule for 13 - 17 January 2014**:
+**Volunteer Schedule for 20 - 24 January 2014**:
 
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | ??? | ??? | ??? | --- |
+| Monday | Giovanni Maggini | @maggix | @maggix | --- |
 | Tuesday | ??? | ??? | ??? | --- |
 | Wednesday | ??? | ??? | ??? | --- |
-| Thursday | Giovanni Maggini | @maggix | @maggix | --- |
-| Friday | Giovanni Maggini | @maggix | @maggix | --- |
+| Thursday | ??? | ??? | ??? | --- |
+| Friday | ??? | ??? | ??? | --- |
 
 24-hour access is available. Ask A Lab about it: info@codum.nl
 
