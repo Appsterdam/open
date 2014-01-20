@@ -34,7 +34,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | Giovanni Maggini | @maggix | @maggix | --- |
 | Tuesday | ??? | ??? | ??? | --- |
-| Wednesday | ??? | ??? | ??? | --- |
+| Wednesday | Gavin Morris | @g7morris | @g7morris | --- |
 | Thursday | ??? | ??? | ??? | --- |
 | Friday | ??? | ??? | ??? | --- |
 
