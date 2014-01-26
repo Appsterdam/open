@@ -35,7 +35,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Monday | Gavin Morris | @g7morris | @g7morris | --- |
 | Tuesday | Gavin Morris | @g7morris | @g7morris | --- |
 | Wednesday | Gavin Morris | @g7morris | @g7morris | --- |
-| Thursday | Hristo Hristov | @ribeto | @ribeto | --- |
+| Thursday | ??? | ??? | ??? | --- |
 | Friday | ??? | ??? | ??? | --- |
 
 24-hour access is available. Ask A Lab about it: info@codum.nl
