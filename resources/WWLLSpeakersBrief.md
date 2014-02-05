@@ -64,6 +64,6 @@ At the end of the presentation you will be asked by the people in charge of the 
 
 If you have any questions, feel free to ask! 
 
-Matteo Manferdini (matteo@appsterdam.rs)
-Eddy Oosterhuis (eddy@appsterdam.rs)
+Tara Ross (tara@appsterdam.rs)
+Tina Yuan (tina@appsterdam.rs)
 
