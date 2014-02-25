@@ -33,7 +33,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
 | --- | :------------: | :------------: | :-----------: | :-------: |
 | Monday | ??? / Giovanni Maggini | ??? / @maggix | ??? / @maggix | --- |
-| Tuesday | ??? / Giovanni Maggini | ??? / @maggix | ??? / @maggix | --- |
+| Tuesday | --- | --- | --- | --- |
 | Wednesday | ??? / Giovanni Maggini | ??? / @maggix | ??? / @maggix | --- |
 | Thursday | Giovanni Maggini / ??? | @maggix / ??? | @maggix / ??? | --- |
 | Friday | --- | --- | --- | --- |
