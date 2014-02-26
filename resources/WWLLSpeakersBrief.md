@@ -17,7 +17,7 @@ Repeat topics from previous lectures are welcome. We believe in giving everyone 
 
 ## Scheduling
 
-Scheduling for a lecture is done according to availability on a first come, first serve basis by the Speakers Bureau Coordinators: Matteo Manferdini (matteo@appsterdam.rs) and Eddy Oosterhuis (eddy@appsterdam.rs). If you need to reschedule your lecture, or have questions about the program, please contact them.
+Scheduling for a lecture is done according to availability on a first come, first serve basis by the Speakers Bureau Coordinators: Tara Ross (tara@appsterdam.rs) and Tina Yuan (tina@appsterdam.rs). If you need to reschedule your lecture, or have questions about the program, please contact them.
 
 
 ## Speaker Training
@@ -42,21 +42,21 @@ Please provide all the information at least two weeks in advance or your lecture
 
 ## Venue and Setup
 
-The WWLL are currently held at the office of our generous host, Glimworm, located next to Weteringcircuit on Eerste Weteringplantsoen 8, 1017 SK, Amsterdam. The venue is easily accessible via trams 4, 7, 10, 16, 24, 25.
+The WWLL are currently held at our HQ at A Lab, which is the red building directly behind the A'dam Tower (formerly the "Overhoeks Tower" in Amsterdam North. From Central Station, take the Buiksloterweg ferry from behind the station (runs every 5 minutes and takes 3 minutes). Address: OVERHOEKSPLEIN, 1031 KS AMSTERDAM. 
 
-A beamer is available at the venue to project your slides. Lunch is provided by the host and attendees: the host provides bread and drinks, while attendees bring their favorite broodje toppings.
+A beamer is available at the venue to project your slides. Lunch is provided by the Appsterdam and attendees: Appsterdam provides bread and drinks, while attendees bring their favorite "broodje" toppings.
 
 Please arrive at the venue at 12:00 for set up and to work out any technical issues before the doors open at 12:30. 
 
-You are expected to bring your own laptop, clicker for advancing your slides, and the necessary connector for the beamer, if needed, which has a standard VGA port. We can lend you a clicker or adapter, but we feel it’s the duty of a good speaker to be prepared with all of her/his own materials. 
+You are expected to bring your own laptop, clicker for advancing your slides, and the necessary adapter for the beamer, if needed, which has a standard VGA port. We can lend you a clicker or adapter, but we feel it’s the duty of a good speaker to be prepared with all of her/his own materials. 
 
 ## Presentation
 
 Attendance is usually around 20 to 30 people, depending on topic and weather conditions (we are in the Netherlands, after all).
 
-Presentation will start at 13:00 and you will have up to one hour, including Q&A if you plan to do it. Length of the presentation may vary, but we require you to have at least a 20 minutes speech so to make it worth it for people to attend.
+Presentation will start at 13:00 and you will have up to one hour, including Q&A if you plan to do it. Length of the presentation may vary, but we ask you to have at least a 20 minutes speech so to make it worth it for people to attend.
 
-Your presentation will be video recorded to be released to the public later. We will do this only with your explicit consent and by providing you the appropriate waiver, either at the time of the presentation or when some time prior to releasing the video.
+Sometimes we video the lectures to be released to the public later. We will do this only with your explicit consent and by providing you the appropriate waiver, either at the time of the presentation or when some time prior to releasing the video.
 
 At the end of the presentation you will be asked by the people in charge of the recording for a version of your slides in their original format and in PDF format. Having them ready will speed up the process.
 
@@ -64,6 +64,6 @@ At the end of the presentation you will be asked by the people in charge of the 
 
 If you have any questions, feel free to ask! 
 
-Tara Ross (tara@appsterdam.rs)
+Tara Ross (tara@appsterdam.rs)  Mobile: 06 8578 8891
 Tina Yuan (tina@appsterdam.rs)
 
