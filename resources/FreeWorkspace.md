@@ -13,7 +13,7 @@ See the [panorama pic](http://360.io/SCRLA4).
 
 ### Directions
 
-On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station. A Lab is the giant, red brick building right behind the landmark Overhoeks Tower. When you get off the ferry, go left towards the EYE film institute. You will pass Cafe de Pont and Tolhuistuin. After you've crossed the little bridge, you can get to A Lab through the metal gate. If the gate is locked, just go around the corner and you'll see a door in the fence on the left side of A Lab.
+On foot or by bike, catch the free ferry to Buiksloterweg that leaves [every 5 minutes](http://www.amsterdamsights.com/amsterdam/ferries.html) from the north (river) side of Centraal Station (back of the station). A Lab is the giant, red brick building right behind the landmark "A'Dam" (formerly Overhoeks) Tower. It says "A Lab" on the top right corner of the building. When you get off the ferry, go left towards the EYE film institute. You will pass Cafe de Pont and Tolhuistuin. After you've crossed the little bridge, you can get to A Lab through the metal gate. If the gate is locked, just go around the corner and you'll see a door in the fence on the left side of A Lab.
 
 See [this map](https://github.com/Appsterdam/open/blob/master/resources/maps/AppsterdamHQ.geoJSON) for ferry and HQ location.
 
