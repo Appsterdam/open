@@ -32,13 +32,13 @@ Additional training is also available through our Appsterdam Monthly Speaker Tra
 
 ## Speaker and Lecture Info
 
-After scheduling your lecture, please send the following info to Matteo and Eddy: 
+After scheduling your lecture, please send the following info to Tina (via a Google form link she will send to you): 
 
 - Title of the presentation
 - A brief abstract (a couple of sentences will do)
 - Your contact info: full name, company, website, email address, phone number, Twitter handle.
 
-Please provide all the information at least two weeks in advance or your lecture will be cancelled.
+Please provide all the information at least two weeks in advance.
 
 ## Venue and Setup
 
