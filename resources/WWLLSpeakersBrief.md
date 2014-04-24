@@ -4,9 +4,7 @@ Thanks for your enthusiasm to share your knowledge with the Appsterdam community
 
 ## Purpose and Spirit
 
-Weekly Wednesday Lunchtime Lectures (WWLL in short) is a program that allows Appsterdammers to share knowledge with the community. In exchange, speakers receive individual speaker training and, if the reception from the audience is 80% positive, you become part of the official Appsterdam Speakers Bureau. We refer to the Bureau when conferences, universities, journalists, or other venues ask us for high quality speakers. Participants of WWLL have already spoken at major events.
-
-If the reception from the audience does not reach 80% approval, it does not mean you are excluded from the Bureau forever. You have as many opportunities as you want to improve your skills until you make it to the list.
+Weekly Wednesday Lunchtime Lectures (WWLL in short) is a program that allows Appsterdammers and others to share knowledge with the community. In exchange, speakers receive individual speaker training if they would like it If the reception from the audience is 80% positive, WWLL speakers become part of the official Appsterdam Speakers Bureau. We refer to the Bureau when conferences, universities, journalists, or other venues ask us for high-quality speakers. Participants of WWLL have already spoken at major events.
 
 ## Lecture Topics
 
