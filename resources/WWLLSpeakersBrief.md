@@ -10,7 +10,9 @@ Weekly Wednesday Lunchtime Lectures (WWLL in short) is a program that allows App
 
 Speakers are encouraged to talk about any subject related to App Making. This covers a wide variety of topics: software development, computer languages, product engineering, design, marketing, social media, hardware, web, etc., even legal topics such as intellectual property, trademarking, etc. Cross pollination from other fields, such as healthcare, architecture, NGOs and others are welcome too, as long as it’s somehow related to App Making.
 
-Repeat topics from previous lectures are welcome. We believe in giving everyone a chance to express different views, methods, and experiences on recurring themes. Please note that the WWLL are not meant as an opportunity to just advertise your product or company; they are intended to be a forum for knowledge exchange.
+Repeat topics from previous lectures are welcome. We believe in giving everyone a chance to express different views, methods, and experiences on recurring themes. 
+
+Please note that the WWLL are not meant as an opportunity to just advertise your product or company; they are intended to be a forum for knowledge exchange.
 
 
 ## Scheduling
