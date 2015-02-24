@@ -24,21 +24,7 @@ If you are arriving by car, see below for parking information.
 
 Monday-Friday 09:00-18:00
 
-Please tweet the scheduled volunteer below to gain entrance if the door is locked.
-Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issues/). 
-
-
-**Volunteer Schedule for 14-18 April 2014**:
-
-| Day | Volunteer Name | Twitter Handle | Github Handle | Alternate |
-| --- | :------------: | :------------: | :-----------: | :-------: |
-| Monday | ??? / Bruno Koga | ??? / [@brunokoga](https://twitter.com/brunokoga) | ??? / [@brunokoga](https://github.com/brunokoga) | --- |
-| Tuesday | ??? / Bruno Koga | ??? / [@brunokoga](https://twitter.com/brunokoga) | ??? / [@brunokoga](https://github.com/brunokoga) | --- |
-| Wednesday | ??? / Bruno Koga | ??? / [@brunokoga](https://twitter.com/brunokoga) | ??? / [@brunokoga](https://github.com/brunokoga) | --- |
-| Thursday | ??? / Bruno Koga | ??? / [@brunokoga](https://twitter.com/brunokoga) | ??? / [@brunokoga](https://github.com/brunokoga) | --- |
-| Friday | ??? / Bruno Koga | ??? / [@brunokoga](https://twitter.com/brunokoga) | ??? / [@brunokoga](https://github.com/brunokoga) | --- |
-
-24-hour access is available. Ask A Lab about it: info@codum.nl
+24-hour access is available for €100/month. Inquire via A Lab: info@codum.nl
 
 
 ### Parking
