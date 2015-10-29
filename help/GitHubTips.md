@@ -5,7 +5,7 @@
 ### Rule 1: _Can it be closed?_
 
 Try to make sure issues can be closed.
-
+Can this work?
 For example, opening an issue for coordinating the opening of A Lab on Monday is very valid.
 
 ### Rule 2: _Can it be assigned?_
